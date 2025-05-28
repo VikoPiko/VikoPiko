@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Ethical Hacking and web development, as well as trying to learn low level languages like C/C++
 - 💞️ I’m looking to collaborate on ... nothing for the moment
 - 📫 How to reach me ... NA
-- 😄 Pronouns: ... not needed 
-- ⚡ Fun fact: Water might not be wet.
 
 <!---
 VikoPiko/VikoPiko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
